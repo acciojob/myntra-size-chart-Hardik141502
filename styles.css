@@ -1,2 +1,15 @@
-
+table {
+	background-color : white ;
+	width : 100% ;
+	margin : 0px ;
+	border-radius : 8px ;
+}
+thead {
+	background-color : red ;
+	color : white ;
+	text-align : left ;
+}
+tbody {
+	background-color : pink ;
+}
 /* Your CSS Code here. */
